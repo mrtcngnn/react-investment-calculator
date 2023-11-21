@@ -1,1 +1,1 @@
-# react-investment-calculator
+# Investment Calculator
